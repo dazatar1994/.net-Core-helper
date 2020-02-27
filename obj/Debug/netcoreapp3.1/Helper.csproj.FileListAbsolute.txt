@@ -1,0 +1,11 @@
+/home/sergey/Helper/obj/Debug/netcoreapp3.1/Helper.csprojAssemblyReference.cache
+/home/sergey/Helper/obj/Debug/netcoreapp3.1/Helper.AssemblyInfoInputs.cache
+/home/sergey/Helper/obj/Debug/netcoreapp3.1/Helper.AssemblyInfo.cs
+/home/sergey/Helper/bin/Debug/netcoreapp3.1/Helper
+/home/sergey/Helper/bin/Debug/netcoreapp3.1/Helper.deps.json
+/home/sergey/Helper/bin/Debug/netcoreapp3.1/Helper.runtimeconfig.json
+/home/sergey/Helper/bin/Debug/netcoreapp3.1/Helper.runtimeconfig.dev.json
+/home/sergey/Helper/bin/Debug/netcoreapp3.1/Helper.dll
+/home/sergey/Helper/bin/Debug/netcoreapp3.1/Helper.pdb
+/home/sergey/Helper/obj/Debug/netcoreapp3.1/Helper.dll
+/home/sergey/Helper/obj/Debug/netcoreapp3.1/Helper.pdb
